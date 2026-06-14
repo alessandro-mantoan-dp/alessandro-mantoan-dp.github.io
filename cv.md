@@ -7,7 +7,7 @@ author_profile: true
 
 Puoi scaricare il mio CV completo in formato PDF:
 
-[📄 Scarica CV]({{ "/assets/files/cv.pdf" | relative_url }}){: .btn .btn--primary}
+[Scarica CV]({{ "/assets/files/cv.pdf" | relative_url }}){: .btn .btn--primary}
 
 ---
 

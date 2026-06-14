@@ -25,7 +25,6 @@ Nel dettaglio, il workflow prevede:
 ## Progetti in mostra
 
 ARCHIVIO MTG
-
 Sistema di catalogazione e preservazione digitale di una collezione privata di Magic: The Gathering, strutturato secondo il workflow precedente.
 Il progetto intende fornire un esempio applicabile a diverse tipologie di oggetti archivistici.
 
