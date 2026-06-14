@@ -1,11 +1,11 @@
 ---
 layout: single
-title: Contatti
+title: CONTATTI
 permalink: /contatti/
 author_profile: true
 ---
 
-Sono disponibile per collaborazioni, commissioni e consulenze nell'ambito della preservazione digitale, catalogazione archivistica e gestione di collezioni.
+Disponibile per collaborazioni, commissioni e consulenze nell'ambito della preservazione digitale, catalogazione archivistica e gestione di collezioni.
 
 **Email:** <alessandro.mantoan.dp@gmail.com>
 
