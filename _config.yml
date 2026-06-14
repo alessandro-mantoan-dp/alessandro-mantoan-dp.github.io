@@ -16,11 +16,11 @@ plugins:
 author:
   name: "Alessandro Mantoan"
   bio: "Archivista digitale. Preservazione audiovisiva, patrimonio videoludico, standard OAIS."
-  location: "Italia"
+  location: "Desio, MB, Italia"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/alessandro-mantoan-dp"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alessandro-mantoan000/"
 
 defaults:
   - scope:
