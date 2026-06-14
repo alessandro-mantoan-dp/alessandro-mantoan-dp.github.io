@@ -9,15 +9,20 @@ header:
 
 ## Profilo
 
-Mi chiamo Alessandro Mantoan, archivista digitale specializzato in preservazione audiovisiva e patrimonio videoludico. Ho conseguito la laurea magistrale con 110/110 e lode in Scienze del Patrimonio Audiovisivo e laurea triennale in Scienze e Tecnologie per la Conservazione dei beni culturali.
+Mi chiamo Alessandro Mantoan, archivista digitale specializzato in preservazione audiovisiva e patrimonio culturale. Ho conseguito la laurea magistrale con 110/110 e lode in Scienze del Patrimonio Audiovisivo e laurea triennale in Scienze e Tecnologie per la Conservazione dei beni culturali.
 
-Il mio approccio si basa sul modello OAIS (Open Archival Information System), applicato sia a collezioni istituzionali che a progetti personali e privati di ricerca e valorizzazione del patrimonio culturale digitale.
+Il mio approccio si basa sul modello OAIS (Open Archival Information System), applicato a progetti di ricerca e di valorizzazione del patrimonio culturale istituzionale e di collezioni private.
 
 ## Progetti
 
-- **Archivio MTG** — sistema di catalogazione della collezione Magic: The Gathering, a fini di archiviazione e preservazione digitale. Strutturato secondo standard archivistici, workflow di ingest automatizzati in Python e interfaccia di ricerca pubblica
+Ho sviluppato autonomamente un sistema di archiviazione digitale applicando gli standard internazionali usati dalle istituzioni culturali di riferimento (OAIS, MODS, PREMIS) a corpus eterogenei di materiale storico-culturale contemporaneo.
+Il progetto include la generazione automatica di metadati in formato XML tramite script Python e la costruzione di database relazionali accessibili online.
+
+Qui trovate un esempio accessibile online di archiviazione e preservazione digitale applicato ad una collezione privata. Il workflow è stato adattato alle caratteristiche degli oggetti in inventario; in questo caso carte collezionabili Magic the Gathering.
 <https://archivio-mtg.onrender.com/>
 
 ## Contatti
 
-Per collaborazioni o commissioni: <alessandro.mantoan.dp@gmail.com>
+Per collaborazioni o commissioni:
+<alessandro.mantoan.dp@gmail.com>
+**Cell:** [+39 338 9191255](tel:+393389191255)
