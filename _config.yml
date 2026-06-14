@@ -14,8 +14,7 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name: "Alessandro Mantoan"
-  bio: "Archivista digitale. Preservazione audiovisiva, patrimonio videoludico, standard OAIS."
+  bio: "Archivista digitale. Preservazione audiovisiva, patrimonio culturale digitale, standard OAIS."
   location: "Desio, MB, Italia"
   links:
     - label: "LinkedIn"
