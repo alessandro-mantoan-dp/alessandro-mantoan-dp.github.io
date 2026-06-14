@@ -9,6 +9,6 @@ Sono disponibile per collaborazioni, commissioni e consulenze nell'ambito della 
 
 **Email:** <alessandro.mantoan.dp@gmail.com>
 
-**Cell:** <+393389191255>
+**Cell:** [+39 338 9191255](tel:+393389191255)
 
 **LinkedIn:** [Alessandro Mantoan](https://www.linkedin.com/in/alessandro-mantoan000/)
