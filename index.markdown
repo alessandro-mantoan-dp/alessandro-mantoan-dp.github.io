@@ -5,14 +5,14 @@ author_profile: true
 
 ## Chi sono
 
-Sono Alessandro Mantoan, archivista digitale specializzato in preservazione audiovisiva e patrimonio videoludico. Ho conseguito la laurea magistrale con 110/110 e lode in Archivistica per i Beni Audiovisivi.
+Sono Alessandro Mantoan, archivista digitale specializzato in preservazione audiovisiva e patrimonio videoludico. Ho conseguito la laurea magistrale con 110/110 e lode in Scienze del Patrimonio Audiovisivo e laurea triennale in Scienze e Tecnologie per la Conservazione dei beni culturali.
 
-Il mio approccio si basa sul modello OAIS (Open Archival Information System), applicato sia a collezioni istituzionali che a progetti personali di ricerca e valorizzazione del patrimonio digitale.
+Il mio approccio si basa sul modello OAIS (Open Archival Information System), applicato sia a collezioni istituzionali che a progetti personali e privati di ricerca e valorizzazione del patrimonio culturale digitale.
 
 ## Progetti
 
-- **Archivio MTG** — sistema di catalogazione della collezione Magic: The Gathering, strutturato secondo standard archivistici con interfaccia di ricerca pubblica
-- **Archivio Videogiochi** — progetto di preservazione del patrimonio videoludico con workflow di ingest automatizzati in Python
+- **Archivio MTG** — sistema di catalogazione della collezione Magic: The Gathering, a fini di archiviazione e preservazione digitale. Strutturato secondo standard archivistici, workflow di ingest automatizzati in Python e interfaccia di ricerca pubblica
+<https://archivio-mtg.onrender.com/>
 
 ## Contatti
 
