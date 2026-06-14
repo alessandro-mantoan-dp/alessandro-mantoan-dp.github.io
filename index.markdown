@@ -1,5 +1,6 @@
 ---
 layout: home
+author_profile: true
 ---
 
 ## Chi sono
@@ -15,4 +16,4 @@ Il mio approccio si basa sul modello OAIS (Open Archival Information System), ap
 
 ## Contatti
 
-Per collaborazioni o commissioni: alessandro.mantoan.dp@gmail.com
+Per collaborazioni o commissioni: <alessandro.mantoan.dp@gmail.com>
