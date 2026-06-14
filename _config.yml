@@ -1,20 +1,20 @@
 title: Alessandro Mantoan
 email: alessandro.mantoan.dp@gmail.com
-description: Archivista digitale specializzato in preservazione audiovisiva e patrimonio multimediale.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alessandro-mantoan-dp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  alessandro-mantoan-dp
+description: Archivista digitale specializzato in preservazione multimediale.
+baseurl: ""
+url: "https://alessandro-mantoan-dp.github.io"
+github_username: alessandro-mantoan-dp
 
-# Build settings
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "neon"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
 author:
-  bio: "Archivista digitale. Preservazione audiovisiva, patrimonio culturale digitale, standard OAIS."
+  bio: "Archivista digitale. Preservazione audiovisiva, patrimonio culturale multimediale, standard OAIS."
   location: "Desio, MB, Italia"
   links:
     - label: "LinkedIn"
