@@ -9,4 +9,6 @@ Sono disponibile per collaborazioni, commissioni e consulenze nell'ambito della 
 
 **Email:** <alessandro.mantoan.dp@gmail.com>
 
-**GitHub:** [alessandro-mantoan-dp](https://github.com/alessandro-mantoan-dp)
+**Cell:** <+393389191255>
+
+**LinkedIn:** [Alessandro Mantoan](https://www.linkedin.com/in/alessandro-mantoan000/)
