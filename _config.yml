@@ -6,11 +6,12 @@ url: "https://alessandro-mantoan-dp.github.io" # the base hostname & protocol fo
 github_username:  alessandro-mantoan-dp
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "neon"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name: "Alessandro Mantoan"
