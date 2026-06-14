@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+title: "PRESERVAZIONE DIGITALE"
 header:
   overlay_image: /assets/images/header.png
   overlay_filter: 0.2
