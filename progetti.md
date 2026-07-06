@@ -1,31 +1,26 @@
 ---
 layout: single
-title: PROGETTI
+title: PROGETTI PERSONALI
 permalink: /progetti/
 author_profile: true
 ---
 
-## Sistema di archiviazione digitale e database relazionale accessibile online
+## SISTEMA DI ARCHIVIAZIONE DIGITALE DEL FILM E DATABASE RELAZIONALE ACCESSIBILE ONLINE
 
-Ho sviluppato autonomamente un sistema di archiviazione digitale applicando gli standard internazionali usati dalle istituzioni culturali di riferimento (OAIS, MODS, PREMIS) a corpus eterogenei di materiale storico-culturale contemporaneo.
-Il progetto include la generazione automatica di metadati in formato XML tramite script Python e la costruzione di database relazionali accessibili online.
+Ho sviluppato autonomamente un sistema  di archiviazione digitale del film, basato sul modello di preservazione OAIS e su database relazionali accessibili online tramite interfaccia web.
+Il progetto prevede l'utilizzo di script Python per le operazione di rinomina e ingestione del materiale audiovisivo in formato digitale all'interno della struttura dell'archivio (tre pacchetti informativi SIP/AIP/DIP), la generazione di metadatazione XML descrittiva e conservativa del film e delle scene costituenti (MODS/PREMIS/DC) e la costruzione di un database accessibile e interrogabile.
 
 Nel dettaglio, il workflow prevede:
 
 - Creazione di un archivio digitale secondo la struttura SIP/AIP/DIP conforme al modello OAIS
-- Inventario e creazione di identificatori univoci per ogni oggetto archivistico
-- Documentazione fotografica
-- Script Python per l'ingest all'interno dell'archivio digitale
-- Scrypt Python per la creazione e gestione dei metadati descrittivi e conservativi, secondo il modello MODS e PREMIS
-- Creazione di un database relazionale
-- Interfaccia di ricerca pubblica con filtri, paginazione ed export CSV
-- Backend FastAPI per la gestione sicura delle credenziali
-- Script Python per la sincronizzazione automatica dei dati
+- Segmentazione del film nelle singole scene costituenti (tramite DaVinci Resolve)
+- Script Python per la rinomina e l'ingestione del film completo e delle scene/frames di riferimento all'interno dell'archivio digitale
+- Scrypt Python per la creazione e gestione dei metadati descrittivi e conservativi, secondo il modello MODS e PREMIS per il film completo / DC per le singole scene
+- Creazione di un database relazionale comprensivo dei dati tecnici relativi al film e alle singole scene
+- Interfaccia di ricerca web con filtri, player di visualizzazione e metadatazione XML
+- Backend FastAPI
+- Script Python per sincronizzazione e aggiornamento automatica dei dati
 
-## Progetti in mostra
+Il progetto, in continua fase di lavorazione, è accessibile al seguente link
 
-ARCHIVIO MTG
-Sistema di catalogazione e preservazione digitale di una collezione privata di Magic: The Gathering, strutturato secondo il workflow precedente.
-Il progetto intende fornire un esempio applicabile a diverse tipologie di oggetti archivistici.
-
-<https://archivio-mtg.onrender.com/>
+<https://felix-archive.onrender.com/>

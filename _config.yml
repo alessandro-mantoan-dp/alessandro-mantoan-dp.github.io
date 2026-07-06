@@ -1,6 +1,6 @@
 title: Alessandro Mantoan
 email: alessandro.mantoan.dp@gmail.com
-description: Archivista digitale specializzato in preservazione multimediale.
+description: Restauratore e conservatore specializzato in preservazione multimediale.
 baseurl: ""
 url: "https://alessandro-mantoan-dp.github.io"
 github_username: alessandro-mantoan-dp
@@ -14,7 +14,7 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  bio: "Archivista digitale. Preservazione audiovisiva, patrimonio culturale multimediale, standard OAIS."
+  bio: "Restauratore digitale e conservatore audiovisivo. Preservazione e archiviazione digitale del film e del video."
   location: "Milano, MI, Italia"
   links:
     - label: "LinkedIn"

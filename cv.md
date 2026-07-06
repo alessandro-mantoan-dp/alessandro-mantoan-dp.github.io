@@ -11,11 +11,11 @@ Puoi scaricare il mio CV completo in formato PDF:
 
 ---
 
-## Profilo
+## PROFILO
 
-Laureato con lode in Scienze del Patrimonio Audiovisivo e dell'Educazione ai Media, specializzato nella conservazione e nel restauro di materiali audiovisivi. Ho maturato esperienza diretta in laboratorio di restauro seguendo l'intero processo: dall'ispezione fisica e diagnostica alla scansione, al restauro digitale dell'immagine e alla produzione dei master di preservazione.
+Laureato magistrale con lode in Scienze del Patrimonio Audiovisivo e dell'Educazione ai Media presso l'Università degli Studi di Udine, specializzato nella conservazione e nel restauro di materiali audiovisivi. Ho maturato esperienza diretta in laboratorio di restauro seguendo l'intero processo operativo: dall'ispezione fisica e diagnostica alla scansione, al restauro digitale dell'immagine alla ricostruzione filologica del film, fino alla produzione di copie d'accesso e master di preservazione.
 
-## Esperienza Professionale
+## ESPERIENZA PROFESSIONALE
 
 **Tirocinante — Conservazione e Restauro Audiovisivo**
 La Camera Ottica Media Preservation and Restoration · Gorizia · 2023–2025
@@ -27,7 +27,7 @@ La Camera Ottica Media Preservation and Restoration · Gorizia · 2023–2025
 - Ricostruzione filologica del film
 - Produzione copie di accesso e di preservazione
 
-## Formazione Accademica
+## FORMAZIONE ACCADEMICA
 
 **Laurea Magistrale in Scienze del Patrimonio Audiovisivo e dell'Educazione ai Media**
 Università degli Studi di Udine · 110/110 con lode · 2025
@@ -35,16 +35,16 @@ Università degli Studi di Udine · 110/110 con lode · 2025
 **Laurea Triennale in Scienze e Tecnologie per lo Studio e la Conservazione dei Beni Culturali e dei Supporti dell'Informazione**
 Università degli Studi di Milano · 98/110 · 2021
 
-## Competenze
+## COMPETENZE
 
 **Ambiti di competenza**
-Conservazione beni culturali audiovisivi, digitalizzazione e archiviazione digitale, gestione formati e standard di preservazione, restauro digitale di film e video, color grading e color correction.
+Conservazione beni culturali audiovisivi · Digitalizzazione e archiviazione digitale · Gestione formati e standard di preservazione · Restauro digitale di film e video · Color grading e color correction · Editing e post-produzione video
 
 **Software e strumenti**
-DaVinci Resolve · Diamant – Film Restoration · Blackmagic Cintel Scanner · Adobe Photoshop · TouchDesigner · LaTeX
+DaVinci Resolve · Diamant – Film Restoration · Blackmagic Cintel Scanner · Adobe Photoshop · TouchDesigner · LaTeX · SQL
 
 **Linguaggi e standard**
-Python · XML · SQL · Dublin Core · MODS · PREMIS · OAIS
+Python · XML (Dublin Core · MODS · PREMIS)
 
 **Lingue**
-Italiano (madrelingua) · Inglese
+Italiano · Inglese

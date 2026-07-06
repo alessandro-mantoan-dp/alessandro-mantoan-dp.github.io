@@ -1,6 +1,8 @@
 main:
-  - title: "Progetti"
+  - title: "Progetti Personali"
     url: /progetti/
+  - title: "Progetti Lavorativi"
+    url: /lavoro/
   - title: "CV"
     url: /cv/
   - title: "Contatti"

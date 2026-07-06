@@ -5,7 +5,7 @@ permalink: /contatti/
 author_profile: true
 ---
 
-Disponibile per collaborazioni, commissioni e consulenze nell'ambito della preservazione digitale, catalogazione archivistica e gestione di collezioni.
+Disponibile per collaborazioni nell'ambito della conservazione e restauro del patrimonio audiovisivo, preservazione digitale, catalogazione archivistica e gestione di collezioni.
 
 **Email:** <alessandro.mantoan.dp@gmail.com>
 

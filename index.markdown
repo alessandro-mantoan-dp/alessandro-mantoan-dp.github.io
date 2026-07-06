@@ -1,30 +1,41 @@
 ---
-layout: home
+layout: single
 author_profile: true
-title: "PRESERVAZIONE DIGITALE"
+title: "RESTAURO E CONSERVAZIONE AUDIOVISIVA
+
+PRESERVAZIONE DIGITALE"
 header:
   overlay_image: /assets/images/header.png
   overlay_filter: 0.2
 ---
 
-## Profilo
+## PROFILO
 
-Mi chiamo Alessandro Mantoan, archivista digitale specializzato in preservazione audiovisiva e patrimonio culturale. Ho conseguito la laurea magistrale con 110/110 e lode in Scienze del Patrimonio Audiovisivo e laurea triennale in Scienze e Tecnologie per la Conservazione dei beni culturali.
+Mi chiamo Alessandro Mantoan, restauratore e conservatore specializzato in materiali filmici e video. Ho conseguito la laurea magistrale con 110/110 e lode in Scienze del Patrimonio Audiovisivo e dell'Educazione ai Media e laurea triennale in Scienze e Tecnologie per lo Studio e la Conservazione dei Beni Culturali e dei Supporti dell'Informazione.
 
-Il mio approccio si basa sul modello OAIS (Open Archival Information System), applicato a progetti di ricerca e di valorizzazione del patrimonio culturale istituzionale e di collezioni private.
+## PROGETTI
 
-## Progetti
+Nel corso del tirocinio svolto presso La Camera Ottica Media Preservation and Restoration (Gorizia) ho preso parte a diversi progetti di restauro e ricostruzione del film, seguendo e curando diverse fasi del workflow operativo.
+Tra i principali progetti a cui ho collaborato risultano:
 
-Ho sviluppato autonomamente un sistema di archiviazione digitale applicando gli standard internazionali usati dalle istituzioni culturali di riferimento (OAIS, MODS, PREMIS) a corpus eterogenei di materiale storico-culturale contemporaneo.
-Il progetto include la generazione automatica di metadati in formato XML tramite script Python e la costruzione di database relazionali accessibili online.
+- **La guerra d'Italia a 3000 metri sull'Adamello** (Comerio, 1916)
 
-Qui trovate un esempio accessibile online di archiviazione e preservazione digitale applicato ad una collezione privata. Il workflow è stato adattato alle caratteristiche degli oggetti archivistici; in questo caso carte collezionabili Magic the Gathering.
-<https://archivio-mtg.onrender.com/>
+- **La spedizione Franchetti nella Dancalia etiopica** (Craveri, 1929)
 
-## Contatti
+- **La battaglia dall'Astico al Piave** (1918)
 
-Per collaborazioni o commissioni:
+Ho inoltre sviluppato autonomamente un sistema di archiviazione digitale applicato al film, basato sul modello di preservazione OAIS e su database relazionali accessibili online tramite interfaccia web.
+
+Il progetto, in continua fase di lavorazione, è accessibile al seguente link:
+
+<https://felix-archive.onrender.com/>
+
+## CONTATTI
+
+Per collaborazioni:
 
 <alessandro.mantoan.dp@gmail.com>
 
 **Cell:** [+39 338 9191255](tel:+393389191255)
+
+**LinkedIn** [Alessandro Mantoan](https://www.linkedin.com/in/alessandro-mantoan000/)
