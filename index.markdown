@@ -1,22 +1,20 @@
 ---
 layout: single
 author_profile: true
-title: "RESTAURO E CONSERVAZIONE AUDIOVISIVA
-
-PRESERVAZIONE DIGITALE"
+title: "AUDIOVISUAL RESTORATION AND CONSERVATION · DIGITAL PRESERVATION"
 header:
   overlay_image: /assets/images/header.png
   overlay_filter: 0.2
 ---
 
-## PROFILO
+## PROFILE
 
-Mi chiamo Alessandro Mantoan, restauratore e conservatore specializzato in materiali filmici e video. Ho conseguito la laurea magistrale con 110/110 e lode in Scienze del Patrimonio Audiovisivo e dell'Educazione ai Media e laurea triennale in Scienze e Tecnologie per lo Studio e la Conservazione dei Beni Culturali e dei Supporti dell'Informazione.
+I'm Alessandro Mantoan, a restorer and conservator specializing in film and video materials. I hold a Master's Degree with 110/110 cum laude in Audiovisual Heritage and Media Education Sciences, and a Bachelor's Degree in Sciences and Technologies for the Study and Conservation of Cultural Heritage and Information Media.
 
-## PROGETTI
+## PROJECTS
 
-Nel corso del tirocinio svolto presso La Camera Ottica Media Preservation and Restoration (Gorizia) ho preso parte a diversi progetti di restauro e ricostruzione del film, seguendo e curando diverse fasi del workflow operativo.
-Tra i principali progetti a cui ho collaborato risultano:
+During my internship at La Camera Ottica Media Preservation and Restoration (Gorizia), I took part in several film restoration and reconstruction projects, following and handling various stages of the operational workflow.
+Among the main projects I contributed to are:
 
 - **La guerra d'Italia a 3000 metri sull'Adamello** (Comerio, 1916)
 
@@ -24,18 +22,17 @@ Tra i principali progetti a cui ho collaborato risultano:
 
 - **La battaglia dall'Astico al Piave** (1918)
 
-Ho inoltre sviluppato autonomamente un sistema di archiviazione digitale applicato al film, basato sul modello di preservazione OAIS e su database relazionali accessibili online tramite interfaccia web.
-
-Il progetto, in continua fase di lavorazione, è accessibile al seguente link:
+I also independently developed a digital archiving system applied to film, based on the OAIS preservation model and on relational databases accessible online through a web interface.
+The project, still under continuous development, is accessible at the following link:
 
 <https://felix-archive.onrender.com/>
 
-## CONTATTI
+## CONTACTS
 
-Per collaborazioni:
+For collaborations:
 
 <alessandro.mantoan.dp@gmail.com>
 
-**Cell:** [+39 338 9191255](tel:+393389191255)
+**Phone:** [+39 338 9191255](tel:+393389191255)
 
 **LinkedIn** [Alessandro Mantoan](https://www.linkedin.com/in/alessandro-mantoan000/)

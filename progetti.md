@@ -1,26 +1,26 @@
 ---
 layout: single
-title: PROGETTI PERSONALI
+title: PERSONAL PROJECTS
 permalink: /progetti/
 author_profile: true
 ---
 
-## SISTEMA DI ARCHIVIAZIONE DIGITALE DEL FILM E DATABASE RELAZIONALE ACCESSIBILE ONLINE
+## DIGITAL FILM ARCHIVING SYSTEM AND ONLINE-ACCESSIBLE RELATIONAL DATABASE
 
-Ho sviluppato autonomamente un sistema  di archiviazione digitale del film, basato sul modello di preservazione OAIS e su database relazionali accessibili online tramite interfaccia web.
-Il progetto prevede l'utilizzo di script Python per le operazione di rinomina e ingestione del materiale audiovisivo in formato digitale all'interno della struttura dell'archivio (tre pacchetti informativi SIP/AIP/DIP), la generazione di metadatazione XML descrittiva e conservativa del film e delle scene costituenti (MODS/PREMIS/DC) e la costruzione di un database accessibile e interrogabile.
+I have independently developed a digital film archiving system, based on the OAIS preservation model and on relational databases accessible online through a web interface.
+The project involves the use of Python scripts for renaming and ingesting audiovisual material in digital format within the archive structure (three information packages, SIP/AIP/DIP), the generation of descriptive and preservation XML metadata for the film and its constituent scenes (MODS/PREMIS/DC), and the construction of an accessible and queryable database.
 
-Nel dettaglio, il workflow prevede:
+In detail, the workflow involves:
 
-- Creazione di un archivio digitale secondo la struttura SIP/AIP/DIP conforme al modello OAIS
-- Segmentazione del film nelle singole scene costituenti (tramite DaVinci Resolve)
-- Script Python per la rinomina e l'ingestione del film completo e delle scene/frames di riferimento all'interno dell'archivio digitale
-- Scrypt Python per la creazione e gestione dei metadati descrittivi e conservativi, secondo il modello MODS e PREMIS per il film completo / DC per le singole scene
-- Creazione di un database relazionale comprensivo dei dati tecnici relativi al film e alle singole scene
-- Interfaccia di ricerca web con filtri, player di visualizzazione e metadatazione XML
-- Backend FastAPI
-- Script Python per sincronizzazione e aggiornamento automatica dei dati
+- Creation of a digital archive following the SIP/AIP/DIP structure, compliant with the OAIS model
+- Segmentation of the film into its individual constituent scenes (using DaVinci Resolve)
+- Python scripts for renaming and ingesting the complete film and reference scenes/frames into the digital archive
+- Python scripts for creating and managing descriptive and preservation metadata, following the MODS and PREMIS model for the complete film / DC for individual scenes
+- Creation of a relational database including technical data related to the film and individual scenes
+- Web search interface with filters, viewing player, and XML metadata
+- FastAPI backend
+- Python scripts for automatic data synchronization and updating
 
-Il progetto, in continua fase di lavorazione, è accessibile al seguente link
+The project, still under continuous development, is accessible at the following link
 
 <https://felix-archive.onrender.com/>

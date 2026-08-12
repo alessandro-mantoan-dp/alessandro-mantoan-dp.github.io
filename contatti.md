@@ -1,14 +1,14 @@
 ---
 layout: single
-title: CONTATTI
+title: CONTACTS
 permalink: /contatti/
 author_profile: true
 ---
 
-Disponibile per collaborazioni nell'ambito della conservazione e restauro del patrimonio audiovisivo, preservazione digitale, catalogazione archivistica e gestione di collezioni.
+Available for collaborations in the field of audiovisual heritage conservation and restoration, digital preservation, archival cataloguing, and collection management.
 
 **Email:** <alessandro.mantoan.dp@gmail.com>
 
-**Cell:** [+39 338 9191255](tel:+393389191255)
+**Phone:** [+39 338 9191255](tel:+393389191255)
 
 **LinkedIn:** [Alessandro Mantoan](https://www.linkedin.com/in/alessandro-mantoan000/)

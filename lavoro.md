@@ -1,19 +1,18 @@
 ---
 layout: single
-title: PROGETTI LAVORATIVI
+title: WORK PROJECTS
 permalink: /lavoro/
 author_profile: true
 ---
 
 ## LA GUERRA D'ITALIA A 3000 METRI SULL'ADAMELLO (Comerio, 1916)
-Ricostruzione e restauro digitale ad opera di La Camera Ottica Media Preservation and Restoration (Gorizia) e Università degli Studi di Udine.
-Ho contribuito alla fase di ricostruzione filologica dell'edizione del 1916 curando la fase di segmentazione nelle singole scene costituenti delle copie censite del film e il relativo découpage tecnico nell'ottica della fase di confronto tra i diversi testimoni e varianti e la creazione della edit decision list per la ricostruzione. 
-
+Digital reconstruction and restoration by La Camera Ottica Media Preservation and Restoration (Gorizia) and the University of Udine.
+I contributed to the philological reconstruction phase of the 1916 edition, handling the segmentation into individual constituent scenes of the surveyed copies of the film and the related technical découpage, with a view to comparing the different witnesses and variants and creating the edit decision list for the reconstruction.
 
 ## LA SPEDIZIONE FRANCHETTI NELLA DANCALIA ETIOPICA (Craveri, 1929)
-Restauro digitale ad opera di La Camera Ottica Media Preservation and Restoration (Gorizia) e Università degli Studi di Udine.
-Ho contribuito alla fase di restauro digitale dell'immagine per mezzo del software Diamant - Film Restoration
+Digital restoration by La Camera Ottica Media Preservation and Restoration (Gorizia) and the University of Udine.
+I contributed to the digital image restoration phase using the Diamant Film Restoration software.
 
 ## LA BATTAGLIA DALL'ASTICO AL PIAVE (1918)
-Progetto di ricostruzione del colore originale del film ad opera di La Camera Ottica Media Preservation and Restoration (Gorizia) e Università degli Studi di Udine.
-Ho partecipato alla seconda ricostruzione del colore di imbibizioni e viraggi del film, basata su l'acquisizione di riferimenti di colore attraverso scansioni in piano di fotogrammi di riferimento con color checker. Il colore di imbibizioni e viraggi è stato ricreato digitalmente attraverso il software DaVinci Resolve a partire dai riferimenti su scansioni del film in bianco e nero. Il progetto si poneva l'obiettivo di porre un confronto critico sulle metodologie operative e i risultati ottenibili in relazione alla prima ricostruzione del colore originale, effettuata a partire da riferimenti fotografici.
+Original color reconstruction project for the film by La Camera Ottica Media Preservation and Restoration (Gorizia) and the University of Udine.
+I took part in the second reconstruction of the film's tinting and toning colors, based on the acquisition of color references through flatbed scans of reference frames using a color checker. The tinting and toning colors were digitally recreated using DaVinci Resolve software, starting from references applied to black-and-white scans of the film. The project aimed to establish a critical comparison of the operating methodologies and results achievable in relation to the first original color reconstruction, which had been carried out using photographic references.

@@ -5,46 +5,45 @@ permalink: /cv/
 author_profile: true
 ---
 
-Puoi scaricare il mio CV completo in formato PDF:
+You can download my complete CV in PDF format:
 
-[Scarica CV]({{ "/assets/files/Alessandro_Mantoan_CV_2026.pdf" | relative_url }}){: .btn .btn--primary}
+[Download CV (EN)]({{ "/assets/files/Alessandro_Mantoan_CV_ENG_2026.pdf" | relative_url }}){: .btn .btn--primary}
+[Download CV (IT)]({{ "/assets/files/Alessandro_Mantoan_CV_ITA_2026.pdf" | relative_url }}){: .btn .btn--primary}
 
----
+## PROFILE
 
-## PROFILO
+Master's degree graduate cum laude in Audiovisual Heritage and Media Education Sciences from the University of Udine, specializing in the conservation and restoration of audiovisual materials. I have gained direct hands-on experience in a restoration laboratory, following the entire operational process: from physical inspection and diagnostics, to scanning, digital image restoration, philological reconstruction of the film, through to the production of access copies and preservation masters.
 
-Laureato magistrale con lode in Scienze del Patrimonio Audiovisivo e dell'Educazione ai Media presso l'Università degli Studi di Udine, specializzato nella conservazione e nel restauro di materiali audiovisivi. Ho maturato esperienza diretta in laboratorio di restauro seguendo l'intero processo operativo: dall'ispezione fisica e diagnostica alla scansione, al restauro digitale dell'immagine alla ricostruzione filologica del film, fino alla produzione di copie d'accesso e master di preservazione.
+## PROFESSIONAL EXPERIENCE
 
-## ESPERIENZA PROFESSIONALE
+**Intern — Audiovisual Conservation and Restoration**
+La Camera Ottica Media Preservation and Restoration · Gorizia, Italy · 2023–2025
 
-**Tirocinante — Conservazione e Restauro Audiovisivo**
-La Camera Ottica Media Preservation and Restoration · Gorizia · 2023–2025
+- Physical inspection, cataloguing, and repair of film materials
+- Scanning and digitization (Blackmagic Cintel Scanner)
+- Digital image restoration (Diamant – Film Restoration)
+- Color correction and color grading (DaVinci Resolve)
+- Philological reconstruction of the film
+- Production of access and preservation copies
 
-- Ispezione fisica, catalogazione e riparazione di materiali filmici
-- Scansione e digitalizzazione (Blackmagic Cintel Scanner)
-- Restauro digitale dell'immagine (Diamant – Film Restoration)
-- Color correction e color grading (DaVinci Resolve)
-- Ricostruzione filologica del film
-- Produzione copie di accesso e di preservazione
+## ACADEMIC EDUCATION
 
-## FORMAZIONE ACCADEMICA
+**Master's Degree in Audiovisual Heritage and Media Education Sciences**
+University of Udine · 110/110 with honors · 2025
 
-**Laurea Magistrale in Scienze del Patrimonio Audiovisivo e dell'Educazione ai Media**
-Università degli Studi di Udine · 110/110 con lode · 2025
+**Bachelor's Degree in Sciences and Technologies for the Study and Conservation of Cultural Heritage and Information Media**
+University of Milan · 98/110 · 2021
 
-**Laurea Triennale in Scienze e Tecnologie per lo Studio e la Conservazione dei Beni Culturali e dei Supporti dell'Informazione**
-Università degli Studi di Milano · 98/110 · 2021
+## SKILLS
 
-## COMPETENZE
+**Areas of Expertise**
+Preservation of audiovisual cultural heritage · Digitization and digital archiving · Management of formats and preservation standards · Digital restoration of film and video · Color grading and color correction · Video editing and post-production
 
-**Ambiti di competenza**
-Conservazione beni culturali audiovisivi · Digitalizzazione e archiviazione digitale · Gestione formati e standard di preservazione · Restauro digitale di film e video · Color grading e color correction · Editing e post-produzione video
-
-**Software e strumenti**
+**Software and Tools**
 DaVinci Resolve · Diamant – Film Restoration · Blackmagic Cintel Scanner · Adobe Photoshop · TouchDesigner · LaTeX · SQL
 
-**Linguaggi e standard**
+**Programming languages and Standards**
 Python · XML (Dublin Core · MODS · PREMIS)
 
-**Lingue**
-Italiano · Inglese
+**Spoken languages**
+Italian · English
