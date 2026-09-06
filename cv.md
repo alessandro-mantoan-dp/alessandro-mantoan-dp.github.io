@@ -7,8 +7,8 @@ author_profile: true
 
 You can download my complete CV in PDF format:
 
-[Download CV (EN)]({{ "/assets/files/Alessandro_Mantoan_CV_ENG_2026.pdf" | relative_url }}){: .btn .btn--primary}
-[Download CV (IT)]({{ "/assets/files/Alessandro_Mantoan_CV_ITA_2026.pdf" | relative_url }}){: .btn .btn--primary}
+[Download CV (EN)]({{ "/assets/files/Alessandro_Mantoan_CV_2026_(ENG).pdf" | relative_url }}){: .btn .btn--primary}
+[Download CV (IT)]({{ "/assets/files/Alessandro_Mantoan_CV_2026_(ITA).pdf" | relative_url }}){: .btn .btn--primary}
 
 ## PROFILE
 

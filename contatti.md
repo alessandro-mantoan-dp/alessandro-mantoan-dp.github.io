@@ -3,6 +3,9 @@ layout: single
 title: CONTACTS
 permalink: /contatti/
 author_profile: true
+header:
+  overlay_image: /assets/images/b4.jpg
+  overlay_filter: 0.2
 ---
 
 Available for collaborations in the field of audiovisual heritage conservation and restoration, digital preservation, archival cataloguing, and collection management.

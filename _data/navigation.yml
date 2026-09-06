@@ -3,6 +3,8 @@ main:
     url: /progetti/
   - title: "Work Projects"
     url: /lavoro/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "CV"
     url: /cv/
   - title: "Contacts"

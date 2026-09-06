@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: "AUDIOVISUAL RESTORATION AND CONSERVATION · DIGITAL PRESERVATION"
 header:
-  overlay_image: /assets/images/header.png
+  overlay_image: /assets/images/b4.jpg
   overlay_filter: 0.2
 ---
 
@@ -26,6 +26,22 @@ I also independently developed a digital archiving system applied to film, based
 The project, still under continuous development, is accessible at the following link:
 
 <https://felix-archive.onrender.com/>
+
+## PORTFOLIO
+
+A selection of video editing and compositing projects created with DaVinci Resolve.
+
+**THE ACT OF REKILLING** (2023)
+
+<https://www.youtube.com/watch?v=Ha8eA8tcmtw&t=16s>
+
+**VERSUS/00** (2024)
+
+<https://www.youtube.com/watch?v=XGSdnbioaWU>
+
+**Be_quiet/02** (2024)
+
+<https://www.youtube.com/watch?v=4nbMdbR--KI>
 
 ## CONTACTS
 

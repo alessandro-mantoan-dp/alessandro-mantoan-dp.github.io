@@ -1,0 +1,11 @@
+a {
+  color: #39ff14;
+}
+
+a:hover {
+  color: #00ff00;
+}
+
+h1, h2, h3, h4 {
+  color: #39ff14;
+}
