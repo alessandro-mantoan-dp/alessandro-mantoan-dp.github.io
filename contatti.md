@@ -16,4 +16,4 @@ Available for collaborations in the field of audiovisual heritage conservation a
 
 [**LinkedIn**](https://www.linkedin.com/in/alessandro-mantoan000/)
 
-[**Github**] (https://github.com/alessandro-mantoan-dp)
+[**Github**](https://github.com/alessandro-mantoan-dp)
