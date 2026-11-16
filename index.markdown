@@ -52,4 +52,4 @@ For collaborations:
 
 [**LinkedIn**](https://www.linkedin.com/in/alessandro-mantoan000/)
 
-[**Github**] (https://github.com/alessandro-mantoan-dp)
+[**Github**](https://github.com/alessandro-mantoan-dp)
