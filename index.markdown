@@ -24,7 +24,7 @@ Among the main projects I contributed to are:
 
 I also independently designed and developed an end-to-end, modular Python infrastructure compliant with the OAIS reference model (ISO 14721) for the long-term preservation of DRM-free video games.
 
-[**Explore the Live Demo:**](https://game-preservation-pipeline.streamlit.app/)
+[**Explore the Live Demo**](https://game-preservation-pipeline.streamlit.app/)
 
 ## PORTFOLIO
 
