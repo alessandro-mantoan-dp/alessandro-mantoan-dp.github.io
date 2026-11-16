@@ -14,4 +14,6 @@ Available for collaborations in the field of audiovisual heritage conservation a
 
 **Phone:** [+39 338 9191255](tel:+393389191255)
 
-**LinkedIn:** [Alessandro Mantoan](https://www.linkedin.com/in/alessandro-mantoan000/)
+[**LinkedIn**](https://www.linkedin.com/in/alessandro-mantoan000/)
+
+[**Github**] (https://github.com/alessandro-mantoan-dp)

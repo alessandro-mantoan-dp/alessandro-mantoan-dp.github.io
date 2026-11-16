@@ -5,22 +5,10 @@ permalink: /progetti/
 author_profile: true
 ---
 
-## DIGITAL FILM ARCHIVING SYSTEM AND ONLINE-ACCESSIBLE RELATIONAL DATABASE
+## VIDEO GAME DIGITAL PRESERVATION PIPELINE
 
-I have independently developed a digital film archiving system, based on the OAIS preservation model and on relational databases accessible online through a web interface.
-The project involves the use of Python scripts for renaming and ingesting audiovisual material in digital format within the archive structure (three information packages, SIP/AIP/DIP), the generation of descriptive and preservation XML metadata for the film and its constituent scenes (MODS/PREMIS/DC), and the construction of an accessible and queryable database.
+I independently designed and developed an end-to-end, modular Python infrastructure compliant with the OAIS reference model (ISO 14721) for the long-term preservation of DRM-free video games. The pipeline automates forensic metadata extraction from Windows binaries (PE Headers) and original offline installers (SIP), translating technical attributes into XSD-validated XML records adhering to international archival standards (Dublin Core, MODS, and PREMIS). To ensure ongoing data integrity and accessibility, the system integrates a relational SQLite database, automated SHA-256 cryptographic fixity auditing to prevent bit-rot alongside historical Condition Reporting, self-contained BagIt archival packaging, and an interactive web dashboard deployed on Streamlit Cloud.
 
-In detail, the workflow involves:
+**Explore the Live Demo:** [https://game-preservation-pipeline.streamlit.app/]
 
-- Creation of a digital archive following the SIP/AIP/DIP structure, compliant with the OAIS model
-- Segmentation of the film into its individual constituent scenes (using DaVinci Resolve)
-- Python scripts for renaming and ingesting the complete film and reference scenes/frames into the digital archive
-- Python scripts for creating and managing descriptive and preservation metadata, following the MODS and PREMIS model for the complete film / DC for individual scenes
-- Creation of a relational database including technical data related to the film and individual scenes
-- Web search interface with filters, viewing player, and XML metadata
-- FastAPI backend
-- Python scripts for automatic data synchronization and updating
-
-The project, still under continuous development, is accessible at the following link
-
-<https://felix-archive.onrender.com/>
+**View Source Code on GitHub:** [https://github.com/alessandro-mantoan-dp/Game_Preservation_Pipeline]

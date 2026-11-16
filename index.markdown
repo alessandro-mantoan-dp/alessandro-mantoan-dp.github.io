@@ -22,10 +22,9 @@ Among the main projects I contributed to are:
 
 - **La battaglia dall'Astico al Piave** (1918)
 
-I also independently developed a digital archiving system applied to film, based on the OAIS preservation model and on relational databases accessible online through a web interface.
-The project, still under continuous development, is accessible at the following link:
+I also independently designed and developed an end-to-end, modular Python infrastructure compliant with the OAIS reference model (ISO 14721) for the long-term preservation of DRM-free video games.
 
-<https://felix-archive.onrender.com/>
+Explore the Live Demo: [https://game-preservation-pipeline.streamlit.app/]
 
 ## PORTFOLIO
 
@@ -51,4 +50,6 @@ For collaborations:
 
 **Phone:** [+39 338 9191255](tel:+393389191255)
 
-**LinkedIn** [Alessandro Mantoan](https://www.linkedin.com/in/alessandro-mantoan000/)
+[**LinkedIn**](https://www.linkedin.com/in/alessandro-mantoan000/)
+
+[**Github**] (https://github.com/alessandro-mantoan-dp)
